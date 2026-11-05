@@ -1,8 +1,8 @@
 {
-  "version": 9,
-  "file": "update_v9.bin",
-  "sha256": "f452daa64d245cac9e368a0fe51db5cf3cd2fdabf70e3bc761322820fdc49eeb",
-  "size": 44889,
-  "date": "2026-10-13",
+  "version": 10,
+  "file": "update_v10.bin",
+  "sha256": "ec721b7f4acd1572c84930e52e048eb52d92cc06c0e4b9d62e817b2a2cd8be1b",
+  "size": 45402,
+  "date": "2026-11-05",
   "min_guard": 1
 }
