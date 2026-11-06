@@ -1,8 +1,8 @@
 {
-  "version": 11,
-  "file": "update_v11.bin",
-  "sha256": "9a4c63822ed5274e0ad9bde7029d42de05659f0f150acd3951c423277e71cb70",
-  "size": 45564,
-  "date": "2026-11-05",
+  "version": 12,
+  "file": "update_v12.bin",
+  "sha256": "dfc0a89c8a1dcc68d4597f8031ba101ced66300f5f567b8a58f0d66e566aa20f",
+  "size": 56873,
+  "date": "2026-11-06",
   "min_guard": 1
 }
